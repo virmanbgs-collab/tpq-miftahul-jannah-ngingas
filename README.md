@@ -1,1 +1,1 @@
-# tpq-miftahul-jannah-ngingas
+See README in earlier messages for usage. Run: npm install && npm run dev. Deploy: push to GitHub and import in Vercel (Vite build).
